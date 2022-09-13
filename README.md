@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Single price grid component solution
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -23,8 +23,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Source Code URL: [Source Github](https://github.com/lenez12/Product-preview-card-component.git)
-- Live Site URL: [Demo Live](https://lenez-product-preview.netlify.app/)
+- Source Code URL: [Source Github](https://github.com/lenez12/Single-price-grid-component.git)
+- Live Site URL: [Demo Live](https://lenez-single-price.netlify.app/)
 
 ## My process
 
@@ -33,29 +33,27 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid CSS
 
 ### What I learned
 
 what I learned in making this challenge is:
 
-1. i can use flexbox to positioning component
-2. i user media Query to build responsive for mobile
-
-To see how you can add code snippets, see below:
-
-1. use reset.css to reset all default css styles from [Meyerweb](https://meyerweb.com/eric/tools/css/reset/)
+1. using grid css for layouting content
+2. i user media Query to build responsive for mobile combinating with grid css
 
 ### Continued development
 
 1. In the future I will make a good css class naming name
+2. add transition and animation on content when appears
 
 ### Useful resources
 
-- [W3Schools](https://www.w3schools.com/css/css3_flexbox.asp)
-- [Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+- [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp)
+- [Reset CSS](https://piccalil.li/blog/a-modern-css-reset/)
 
 ## Author
 
-- Frontend Mentor - [@Lenez](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Lenez](https://www.frontendmentor.io/profile/lenez)
 - Twitter - [@prak_tech](https://www.twitter.com/prak_tech)
 
