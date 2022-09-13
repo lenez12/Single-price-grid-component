@@ -164,3 +164,42 @@ span {
 		margin-right: 20px;
 	}
 }
+
+@media only screen and (max-width: 1200px) {
+	.grid {
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-template-rows: 1fr;
+		background: white;
+		border-radius: 10px;
+		margin: 0 auto;
+		overflow: hidden;
+		margin: 0 20px;
+	}
+
+	.content__overview {
+		grid-column: 1;
+	}
+
+	h1 {
+		color: var(--cyan-color);
+		font-size: 1.4rem;
+		margin-bottom: 10px;
+	}
+
+	h2 {
+		font-size: 1rem;
+		color: white;
+		margin-bottom: 16px;
+	}
+
+	.content__description-text {
+		font-size: 0.8rem;
+	}
+
+	.price__nominal {
+		font-size: 2rem;
+		font-weight: 700;
+		margin-right: 20px;
+	}
+}
